@@ -1,4 +1,4 @@
-# Interactive Mortality Plot Shiny App
+# Interactive Mortality Plots Shiny App
 ## Description
 The Interactive Mortality Time Series Plot App is a project aimed at providing users with an interactive application that displays time series plots showcasing mortality rates among various social groups and regions. The app specifically focuses on presenting mortality data for Polish and EU citizens, allowing users to select their preferred social group based on factors such as sex, age, and more. As the user makes their selections, the plot dynamically updates to reflect the chosen parameters. Furthermore, the app provides the ability to generate mortality plots for specific time intervals of interest. Additionally, geographical plots are available for both Poland and the EU.
 At the end it is possible to save the chosen plots as PDF Report.
